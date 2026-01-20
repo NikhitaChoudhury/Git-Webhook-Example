@@ -6,6 +6,6 @@ public class LoginTest {
 
 	@Test
 	void login() {
-		System.out.println("LOGIN*****");
+		System.out.println("LOGIN SUCCESSFUL....");
 	}
 }
